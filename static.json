@@ -8,5 +8,9 @@
       "X-Author": "unrazum2",
       "Access-Control-Allow-Origin": "*"
     }
+    "/login": {
+      "X-Author": "unrazum3",
+      "Access-Control-Allow-Origin": "*"
+    }
   }
 }
