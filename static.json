@@ -10,17 +10,5 @@
         "Content-Type" : "text/plain",
       "charset" : "UTF-8",
     },
-    "/sample/*": {
-      "X-Author": "unrazum3",
-      "Access-Control-Allow-Origin": "*",
-       "Content-Type" : "text/plain",
-      "tast": "function task(x) {  return this.x*this.x;}"
-      
-    }
-    
-    ,
-    "/assets/webfonts/*": {
-      "Access-Control-Allow-Origin": "*"
-    }
   }
 }
