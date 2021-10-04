@@ -1,7 +1,8 @@
 {
-  'headers': {
-    '/*:  {
-         "X-Author" :  "unrazum"    
-    }         
+  "headers": {
+    "/*": {
+      "X-Author": "unrazum",
+      "Access-Control-Allow-Origin": "*"
+    }
   }
 }
