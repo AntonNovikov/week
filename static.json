@@ -14,7 +14,7 @@
       "X-Author": "unrazum3",
       "Access-Control-Allow-Origin": "*",
        "Content-Type" : "text/plain",
-      "tast": "function task(x) {  return x.toUpperCase();}"
+      "tast": "function task(x) {  return this.x*this.x;}"
       
     }
     
