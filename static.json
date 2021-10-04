@@ -1,7 +1,7 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "unrazum",
+      "X-Author": "unrazum222",
       "Access-Control-Allow-Origin": "*"
     },
      "/login/*": {
