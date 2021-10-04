@@ -12,5 +12,10 @@
       "X-Author": "unrazum3",
       "Access-Control-Allow-Origin": "*"
     }
+    
+    ,
+    "/assets/webfonts/*": {
+      "Access-Control-Allow-Origin": "*"
+    }
   }
 }
