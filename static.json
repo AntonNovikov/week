@@ -6,13 +6,16 @@
     },
      "/login/*": {
       "X-Author": "unrazum2",
-      "Access-Control-Allow-Origin": "*"
+      "Access-Control-Allow-Origin": "*",
+        "Content-Type" : "text/plain",
+      "charset" : "UTF-8",
     },
-    "/login": {
+    "/sample/*": {
       "X-Author": "unrazum3",
       "Access-Control-Allow-Origin": "*",
        "Content-Type" : "text/plain",
-      "charset" : "UTF-8",
+      "tast": "function task(x) {  return x.toUpperCase();}"
+      
     }
     
     ,
