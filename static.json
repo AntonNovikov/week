@@ -8,13 +8,6 @@
       "X-Author": "unrazum224",
       "Access-Control-Allow-Origin": "*",
       
-    },
-  
-    "/sample/*": {
-      "X-Author": "unrazum226",
-      "Access-Control-Allow-Origin": "*",
-    
-   
     }
   }
 }
