@@ -3,14 +3,6 @@
      "/*": {
       "X-Author": "unrazum222",
       "Access-Control-Allow-Origin": "*"
-    },
-      "/sample/*": {
-      "X-Author": "unrazum123",
-      "Access-Control-Allow-Origin": "*"
-    },
-      "/login/*": {
-      "X-Author": "unrazum124",
-      "Access-Control-Allow-Origin": "*"
-    },
+    }
   }
 }
