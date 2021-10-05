@@ -13,7 +13,7 @@
     "/sample/*": {
       "X-Author": "unrazum226",
       "Access-Control-Allow-Origin": "*",
-      "Content-Type" : "text/plain; charset=UTF-8"
+    
    
     }
   }
