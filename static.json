@@ -3,7 +3,9 @@
     "/*": {
       "X-Author": "unrazum222",
       "Access-Control-Allow-Origin": "*"
-    },
+    }
+/*    
+    ,
      "/login/*": {
       "X-Author": "unrazum2",
       "Access-Control-Allow-Origin": "*",
@@ -16,7 +18,7 @@
       "tast": "function task(x) {  return this.x*this.x;}"
       
     }
-    
+ */   
   }
 }
 //
