@@ -3,6 +3,10 @@
      "/*": {
       "X-Author": "unrazum222",
       "Access-Control-Allow-Origin": "*"
+    },
+    "/login/*": {
+      "X-Author": "unrazum223",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
