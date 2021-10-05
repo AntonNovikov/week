@@ -4,11 +4,11 @@
       "X-Author": "unrazum222",
       "Access-Control-Allow-Origin": "*"
     },
-      "/sample/*": {
+      "/sample/": {
       "X-Author": "unrazum123",
       "Access-Control-Allow-Origin": "*"
     },
-      "/login/*": {
+      "/login/": {
       "X-Author": "unrazum124",
       "Access-Control-Allow-Origin": "*"
     },
